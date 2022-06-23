@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning about machine learning with Python
+- 👯 I’m looking to collaborate on kalenislims proyect
 
 <!--
 **faviodutria/faviodutria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
